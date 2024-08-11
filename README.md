@@ -36,6 +36,7 @@ Model Training and Evaluation
 Both models were trained using the original (unscaled) data and the scaled data:
 
 Logistic Regression: Improved performance with scaled data.
+
 Decision Tree Classifier: Performance remained consistent regardless of scaling, demonstrating the tree model's inherent robustness to feature scaling.
 Effect of Outliers
 To analyze the impact of outliers:
